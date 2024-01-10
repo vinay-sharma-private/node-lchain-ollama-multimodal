@@ -1,4 +1,4 @@
-# node-lchain-ollama-chroma
+# node-lchain-ollama-multimodal
 This is a Node.js Generative AI application that leverages Ollama and Langchain to showcase the multimodal capabilities of a model. The chain takes an image of a dish as input and provides a description of its contents, including identification of the dish in the image. This description is later utilized in the chain, where model assumes the persona of a chef and generates an article about the dish's recipe and preparation instructions.
 
 ## Getting Started
